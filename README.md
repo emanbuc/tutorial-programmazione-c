@@ -1,3 +1,9 @@
+# Esercitazioni online con GitHub Codespace
+Tutte gli esempi e gli esercizi del coros possono esseree eseguiti nell'ambiente di sviluppo online CodeSpace di GitHub
+
+Breve tutorial CodeSpace
+
+
 # Introduzione alla programmazione in linguaggio C
 
 1. [Introduzione](docs/00_intruduzione_linguaggio_C.md)
