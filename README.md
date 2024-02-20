@@ -9,4 +9,4 @@ Breve tutorial CodeSpace
 1. [Introduzione](docs/00_intruduzione_linguaggio_C.md)
 2. [Istruzioni di iterazione](docs/10_iterazione_in_C.md)
 3. [Leggere gli input dell'utente](docs/20_lettura_input.md)
-4. Istrizioni condizionali IF ELSE SWITCH
+4. Istruzioni condizionali IF ELSE SWITCH
